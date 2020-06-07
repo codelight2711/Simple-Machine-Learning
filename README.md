@@ -1,2 +1,2 @@
-# Simple-Machine-Learning
-Machine Learning for Beginners 
+Heart Disease Prediction 
+Using Decision Tree Classifier
